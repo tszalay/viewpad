@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "viewpad", "viewpad.vcxproj", "{A5B9B68D-A12D-426C-A3FA-1489C0450C17}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "levmar", "levmar-2.5\levmar.vcxproj", "{F329E490-DB04-453A-A0BF-FEB90BD949D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug23|Win32 = Debug23|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B9B68D-A12D-426C-A3FA-1489C0450C17}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5B9B68D-A12D-426C-A3FA-1489C0450C17}.Debug|Win32.Build.0 = Debug|Win32
+		{A5B9B68D-A12D-426C-A3FA-1489C0450C17}.Debug23|Win32.ActiveCfg = Debug23|Win32
+		{A5B9B68D-A12D-426C-A3FA-1489C0450C17}.Debug23|Win32.Build.0 = Debug23|Win32
+		{A5B9B68D-A12D-426C-A3FA-1489C0450C17}.Release|Win32.ActiveCfg = Release|Win32
+		{A5B9B68D-A12D-426C-A3FA-1489C0450C17}.Release|Win32.Build.0 = Release|Win32
+		{F329E490-DB04-453A-A0BF-FEB90BD949D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F329E490-DB04-453A-A0BF-FEB90BD949D8}.Debug|Win32.Build.0 = Debug|Win32
+		{F329E490-DB04-453A-A0BF-FEB90BD949D8}.Debug23|Win32.ActiveCfg = Debug23|Win32
+		{F329E490-DB04-453A-A0BF-FEB90BD949D8}.Debug23|Win32.Build.0 = Debug23|Win32
+		{F329E490-DB04-453A-A0BF-FEB90BD949D8}.Release|Win32.ActiveCfg = Release|Win32
+		{F329E490-DB04-453A-A0BF-FEB90BD949D8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

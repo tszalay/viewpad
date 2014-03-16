@@ -1,0 +1,6 @@
+dbg = {Red};
+dbg=Append[dbg,Line[{{0,0,0},{0.5,0,0}}]];
+dbg=Append[dbg,Line[{{0,0,0},{0,0.5,0}}]];
+dbg=Append[dbg,Line[{{0,0,0},{0,0,0.5}}]];
+dbg=Append[dbg,Black];
+Graphics3D[dbg]
